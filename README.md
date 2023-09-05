@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## JSNetwork
 
-This is a web application cloning messenger app. I intend to improve and develop it more so that people around me can use it.
+This is a web application intended to clone the messenger app. I want to improve and develop it more so that it is specialized to be useful among small groups of people.
 
 
 ## Special Thanks
