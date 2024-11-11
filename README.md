@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## JSNetwork
+## JSNetworks
 
 This is a web application intended to clone the messenger app. I want to improve and develop it more so that it is specialized to be useful among small groups of people.
 
